@@ -4,7 +4,7 @@ I am **Luka Eric** working as **Business Development Rep at Tegus**. I just grad
 
 Vist my **portfolio**
 
-[![Linkedin: Luka](https://www.linkedin.com/in/lukaeric/)
+(https://www.linkedin.com/in/lukaeric/)
 
 ---
 
