@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Luka Eric** working as **Business Development Rep at Tegus**. I just graduated as a **Fullstack Developer** with **Skills in , React Native, NodeJS, MongoDB, Mean Stack, CSS, Javscript, and HTML.** I previously held a Bachelor of Arts focused in Business with a concetration in Entreprenuership and Accounting from Trinity International University.
+I am **Luka Eric** working as **Business Development Rep at Tegus**. I just graduated as a **Fullstack Developer** with **Skills in React Native, NodeJS, MongoDB, Mean Stack, CSS, Javscript, and HTML from Northwestern University.** I previously held a Bachelor of Arts focused in Business with a concetration in Entreprenuership and Accounting from Trinity International University.
 
 Vist my **portfolio**
 
